@@ -1,2 +1,2 @@
-# M00982083_COURSEWORK2
-MY COURSEWORK 2 FOR CST3145 
+this is the coursework 2 frontend
+live link:https://dayomdx.github.io/coursework2_frontend/
